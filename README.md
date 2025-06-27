@@ -16,7 +16,7 @@ The Smart Scheduler Project is a console-based Python program. This project allo
 1. Make sure Python is installed in your system or there is a python compiler readily available.
 2. Clone or download the project.
 3. Run the script: 
-  python scheduler.py
+  scheduler.py
 
 # Limitations and Future Recommendations/enhancements
 - Prevent overlapping exam schedules
