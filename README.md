@@ -29,4 +29,4 @@ Group members:
 1. Marianne Joy R. Sevillano
 2. Jasper N. Maaño
 3. Christel Rodge S. Rambano 
-4. Merelos, Anna May Aika E.
+4. Anna May Aika E. Merelos
