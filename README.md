@@ -24,3 +24,9 @@ The Smart Scheduler Project is a console-based Python program. This project allo
 
 This project is for educational purposes and is open for personal or academic use.
 
+# BSIT-1B
+Group members: 
+1. Marianne Joy R. Sevillano
+2. Jasper N. Maaño
+3. Christel Rodge S. Rambano 
+4. Merelos, Anna May Aika E.
